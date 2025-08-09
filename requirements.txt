@@ -1,0 +1,14 @@
+python-telegram-bot==20.7
+Pillow==10.0.1
+flask
+flask-cors
+google-generativeai
+Pillow
+psutil
+python-telegram-bot
+pytz
+requests
+telegram
+yt-dlp
+cryptography>=41.0.0
+bcrypt>=4.0.0

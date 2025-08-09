@@ -1,0 +1,17 @@
+
+
+Fri Aug  8 14:28:56 2025
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 6.2.16 (#1-NixOS SMP PREEMPT_DYNAMIC Tue Jan  1 00:00:00 UTC 1980) x86_64
+Compiler: GCC 12.2
+ext2fs lib: 1.46.6, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: 20201230, curses lib: ncurses 6.4
+User is not root!
+Hard disk list
+
+No disk found
+
+TestDisk exited normally.
